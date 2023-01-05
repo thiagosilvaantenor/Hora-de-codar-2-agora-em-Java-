@@ -1,6 +1,10 @@
-# Hora de codar 2 agora em Java <h1>
-  
-## Exercícios de Condicionais e Laços de repetição em Java, atividade proposta pelo professor Gabriel Augusto, do Curso PROAPROFISSÃO Desenvolvedor Web Java. <h2>
+# Hora de codar 2 agora em Java
+
+<div align=center>
+<img src="https://apexensino.com.br/wp-content/uploads/2017/03/banner-java.jpg" width:100% />
+</div> 
+
+## Exercícios de Condicionais e Laços de repetição em Java, atividade proposta pelo professor Gabriel Augusto, do Curso PROPROFISSÃO <h2>
 
 ### CONDICIONAIS: <h3>
 1 - Escreva um programa em que o usuário informe dois números utilizando o "prompt". Então escreva em tela o maior deles.
